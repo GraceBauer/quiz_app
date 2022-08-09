@@ -1,0 +1,33 @@
+[
+    {
+        "question" : "Wie lautet die Hauptstadt von Frankreich?",
+        "correct" : "Paris",
+        "incorrect" : [
+            "Amsterdam","Oslo","Zürich","Berlin","Prag"
+        ]
+    },
+    {
+        "question" : "Wie lautet die Hauptstadt von Rumänien ?",
+        "correct" : "Bukarest",
+        "incorrect" : [
+            "Bratislava","Kopenhagen","Budapest","Warschau","Sarajewo"
+        ]
+    },
+    {
+        "question" : "Wie lautet die Hauptstadt von Großbritannien?",
+        "correct" : "London",
+        "incorrect" : [
+            "Dublin","Budapest ","Madrid","Oslo","Sofia"
+        ]
+    },
+    {
+        "question" : "Wie lautet die Hauptstadt von Kroatientannien?",
+        "correct" : "Zagreb",
+        "incorrect" : [
+            "Wien","Lissabon","Bukarest","Helsinki","Rom"
+        ]
+
+        
+    }
+    
+]
